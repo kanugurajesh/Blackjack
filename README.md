@@ -1,2 +1,2 @@
-# singleplayer_blackjack
-This is a single player basic blackjack
+# blackjack
+creating a black jack game
